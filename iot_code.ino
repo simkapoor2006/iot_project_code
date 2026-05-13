@@ -4,16 +4,16 @@
 #include <DallasTemperature.h>
 
 // ===== Wi-Fi Credentials =====
-#define WIFI_SSID "SIMRAN's S23 Ultra"
-#define WIFI_PASSWORD "_"
+#define WIFI_SSID "YOUR_WIFI_NAME"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 // ===== Firebase Credentials =====
-#define API_KEY "AIzaSyDH4S9_rmOxMww725sWGLvibErl9hgWZXM"
+#define API_KEY "YOUR_API_KEY"
 #define DATABASE_URL "https://fire-alarm-f8d78-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 // Firebase Login
-#define USER_EMAIL "firetest@gmail.com"
-#define USER_PASSWORD "firepasswordtest"
+#define USER_EMAIL "YOUR_FIREBASE_NAME"
+#define USER_PASSWORD "YOUR_FIREBASE_PASSWORD"
 
 // Firebase objects
 FirebaseData fbdo;
