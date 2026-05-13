@@ -18,6 +18,8 @@ An IoT-based fire detection and alarm system developed using ESP32 and Firebase 
 ## Components Used
 - ESP32
 - Flame Sensor
+- Temperature sensor
+- Smoke sensor
 - Buzzer
 - Jumper Wires
 - Breadboard
