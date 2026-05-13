@@ -14,6 +14,7 @@ An IoT-based fire detection and alarm system developed using ESP32 and Firebase 
 - Firebase
 - Embedded C/C++
 - IoT
+- HTML website
 
 ## Components Used
 - ESP32
